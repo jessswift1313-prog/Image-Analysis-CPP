@@ -45,7 +45,7 @@ Input image → Processed output → Edge detection pipeline
 
   <img src="images/Willis.512.jpg" width="32%" />
 
-  <img src="seuillage_double/correction/Willis.512.jpg" width="32%" height="350px"/>
+  <img src="seuillage/Willis.512.jpg" width="32%" />
 
   <img src="superpixel/correction/Willis.512.jpg" width="32%" />
 
