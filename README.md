@@ -2,8 +2,10 @@
 
 A C++ implementation of fundamental image processing and analysis algorithms.  
 The project focuses on low-level image representation, convolution-based filtering, and classical computer vision techniques.
-The main resultat can be viewed in [Report_en](REPORT_en.ipynb) or [Report_fr](REPORT_fr.ipynb)
-The documentations of part of important functions can be viewed in [pgm](pgm.hpp), [ppm](ppm.hpp), [Seuillage](seuillage.hpp), [Sobel](Sobel.hpp), [Colors](gris-couleurs.hpp), [Superpixel](superpixel.hpp)
+
+The main resultat can be viewed in [Report(English Version)](REPORT_en.ipynb) or [Report(French Version)](REPORT_fr.ipynb)
+
+The documentations of some important functions can be viewed in [pgm.hpp](pgm.hpp), [ppm.hpp](ppm.hpp), [seuillage.hpp](seuillage.hpp), [sobel.hpp](Sobel.hpp), [gris-couleurs.hpp](gris-couleurs.hpp), [superpixel.hpp](superpixel.hpp)
 
 ---
 
