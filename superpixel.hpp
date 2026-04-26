@@ -125,6 +125,3 @@ Image superPixel(Image img, double lambda, int mu, int nbAmeliorations);
 
 
 
-// Ecrire votre code ici
-
-
