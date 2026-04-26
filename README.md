@@ -43,6 +43,6 @@ Input image → processed output → edge detection pipeline
 
 ![input](images/Willis.512.jpg)
 
-![output](seuillage/correction.Willis.512.jpg)
+![output](seuillage/correction/Willis.512.jpg)
 
 ![edge](superpixel/correction/Willis.512.jpg)
