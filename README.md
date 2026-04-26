@@ -39,11 +39,13 @@ The goal is to develop a clear understanding of how classical computer vision me
 
 ## Example Results
 
+Input image → Processed output → Edge detection pipeline
+
 <div style="display: flex; gap: 10px; justify-content: space-between;">
 
   <img src="images/Willis.512.jpg" width="32%" />
 
-  <img src="seuillage/correction/Willis.512.jpg" width="32%" />
+  <img src="seuillage_double/correction/Willis.512.jpg" width="32%" height="350px"/>
 
   <img src="superpixel/correction/Willis.512.jpg" width="32%" />
 
